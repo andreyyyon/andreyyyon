@@ -9,5 +9,5 @@
   <a href="https://github.com/andreyyyon"><img src="http://github-readme-streak-stats.herokuapp.com?user=andreyyyon&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"></a>
 </p>
 <div >
-  <img src="https://www.pngplay.com/wp-content/uploads/11/Hollow-Knight-PNG-Background.png">
+  <img width="100px" src="https://www.pngplay.com/wp-content/uploads/11/Hollow-Knight-PNG-Background.png">
 </div>
