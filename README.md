@@ -10,8 +10,6 @@
 </p>
 <div>
     <img float="left" width="200px" src="https://www.pngplay.com/wp-content/uploads/11/Hollow-Knight-PNG-Background.png">
-</div>
-<div>
   <p style="word-wrap: break-word">
     Estou na busca da minha primeira oportunidade no mercado como programador, meu email é andrey.rebelatto31@gmail.com, meu linkedin contém mais informações profissionais sobre mim.
   </p>
