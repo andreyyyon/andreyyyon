@@ -8,10 +8,11 @@
    <a href="https://github.com/andreyyyon"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyyyon&theme=dark&hide_border=true" alt="andreyyyon github status"></a><br>
   <a href="https://github.com/andreyyyon"><img src="http://github-readme-streak-stats.herokuapp.com?user=andreyyyon&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"></a>
 </p>
+<div style="float: left;">
+    <img src="https://www.pngplay.com/wp-content/uploads/11/Hollow-Knight-PNG-Background.png">
+</div>
 <div>
-    <img style="width: 200px; margin: 5px; float:left;"  src="https://www.pngplay.com/wp-content/uploads/11/Hollow-Knight-PNG-Background.png">
   <p style="word-wrap: break-word">
     Estou na busca da minha primeira oportunidade no mercado como programador, meu email é andrey.rebelatto31@gmail.com, meu linkedin contém mais informações profissionais sobre mim.
   </p>
-  
 </div>
