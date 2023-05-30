@@ -9,7 +9,7 @@
   <a href="https://github.com/andreyyyon"><img src="http://github-readme-streak-stats.herokuapp.com?user=andreyyyon&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"></a>
 </p>
 <div>
-  <img width="200px" src="https://www.pngplay.com/wp-content/uploads/11/Hollow-Knight-PNG-Background.png">
+  <img width="200px" align="center" src="https://www.pngplay.com/wp-content/uploads/11/Hollow-Knight-PNG-Background.png">
   <p>
     Estou na busca da minha primeira oportunidade no mercado como programador, meu email é andrey.rebelatto31@gmail.com, meu linkedin contém mais informações profissionais sobre mim.
   </p>
