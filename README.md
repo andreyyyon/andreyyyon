@@ -10,4 +10,4 @@
 <div align="center">
   <img width="200px" src="https://www.pngplay.com/wp-content/uploads/11/Hollow-Knight-PNG-Background.png">
 </div>
-<p>Atualmente trabalho em uma franquia da TOTVS e desenvolvo em ADVPL, meu email é andrey.rebelatto31@gmail.com, meu linkedin contém mais informações profissionais sobre mim.</p>
+<p>Atualmente trabalho em uma franquia da TOTVS e desenvolvo em ADVPL! <br>Meu email é andrey.rebelatto31@gmail.com <br>Meu Linkedin contém mais informações profissionais sobre mim.</p>
