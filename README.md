@@ -7,7 +7,7 @@
    <a href="https://github.com/andreyyyon"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyyyon&theme=dark&hide_border=true" alt="andreyyyon github status"></a><br>
   <a href="https://github.com/andreyyyon"><img src="http://github-readme-streak-stats.herokuapp.com?user=andreyyyon&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"></a>
 </p>
-<div align="center">
-  <img width="200px" src="https://www.pngplay.com/wp-content/uploads/11/Hollow-Knight-PNG-Background.png">
+<div>
+  <img width="150px" style="float: right; src="https://www.pngplay.com/wp-content/uploads/11/Hollow-Knight-PNG-Background.png">
 </div>
 <p>Atualmente trabalho em uma franquia da TOTVS e desenvolvo em ADVPL! <br>Meu email é andrey.rebelatto31@gmail.com <br>Meu Linkedin contém mais informações profissionais sobre mim.</p>
