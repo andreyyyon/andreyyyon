@@ -1,5 +1,4 @@
 # Salve devs, meu nome é Andrey, pode me chamar de And se quiser!
-## Bem-vindo ao meu GitHub, gosto de coisas minimalistas então não vou por muitas informações, apenas o necessário;
 <div align="center">
 <img margin="auto" src="https://static.wixstatic.com/media/a01f16_c9fa60bf412b4f03baafc78f405094d5~mv2.gif/v1/fill/w_797,h_449,q_90/a01f16_c9fa60bf412b4f03baafc78f405094d5~mv2.gif">
 </div>
@@ -11,4 +10,4 @@
 <div align="center">
   <img width="200px" src="https://www.pngplay.com/wp-content/uploads/11/Hollow-Knight-PNG-Background.png">
 </div>
-<p>Estou na busca da minha primeira oportunidade no mercado como programador, meu email é andrey.rebelatto31@gmail.com, meu linkedin contém mais informações profissionais sobre mim.</p>
+<p>Atualmente trabalho em uma franquia da TOTVS e desenvolvo em ADVPL, meu email é andrey.rebelatto31@gmail.com, meu linkedin contém mais informações profissionais sobre mim.</p>
