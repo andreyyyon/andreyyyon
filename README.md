@@ -7,4 +7,4 @@
 <div align="center">
   <img margin="auto" src="https://static.wixstatic.com/media/a01f16_c9fa60bf412b4f03baafc78f405094d5~mv2.gif/v1/fill/w_797,h_449,q_90/a01f16_c9fa60bf412b4f03baafc78f405094d5~mv2.gif">
 </div>
-<p>Atualmente trabalho em uma franquia da TOTVS e desenvolvo em ADVPL e TL++ <br>Meu email é andrey.rebelatto31@gmail.com <br>Meu Linkedin contém mais informações profissionais sobre mim.</p>
+<p align="center">Atualmente trabalho em uma franquia da TOTVS e desenvolvo em ADVPL e TL++ <br>Meu email é andrey.rebelatto31@gmail.com <br>Meu Linkedin contém mais informações profissionais sobre mim.</p>
