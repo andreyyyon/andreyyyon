@@ -1,4 +1,4 @@
-# Salve devs, meu nome é Andrey, pode me chamar de And se quiser!
+# Salve devs, meu nome é Andrey, pode me chamar de and se quiser!
 
 <p align="center">
   <a href="https://github.com/andreyyyon"><img src="https://github-readme-stats.vercel.app/api?username=andreyyyon&hide_border=true&show_icons=true&theme=dark" alt="andreyyyon github status"></a>
