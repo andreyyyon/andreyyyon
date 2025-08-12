@@ -1,4 +1,4 @@
-# Olá devs!
+# Olá devs! 🧩
 
 <p align="">
   <a href="https://github.com/andreyyyon"><img src="https://github-readme-stats.vercel.app/api?username=andreyyyon&hide_border=true&show_icons=true&theme=dark" alt="andreyyyon github status"></a>
@@ -7,5 +7,5 @@
 <!-- <div align="center">
   <img margin="auto" src="">
 </div> -->
-#
+# 
 <p align="center">Me chamo Andrey e atualmente trabalho em uma franquia da TOTVS e desenvolvo em ADVPL e TL++ <br>Meu email é andrey.rebelatto31@gmail.com <br>Meu Linkedin contém mais informações profissionais sobre mim.</p>
