@@ -7,5 +7,5 @@
 <!-- <div align="center">
   <img margin="auto" src="">
 </div> -->
----
+<hr>
 <p align="center">Me chamo Andrey e atualmente trabalho em uma franquia da TOTVS e desenvolvo em ADVPL e TL++ <br>Meu email é andrey.rebelatto31@gmail.com <br>Meu Linkedin contém mais informações profissionais sobre mim.</p>
