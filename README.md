@@ -1,4 +1,4 @@
-<h1 align="left">Olá devs! Me chamo Andrey.</h1>
+<h1 align="left">Olá devs!</h1>
 
 ###
 <a href="https://github.com/andreyyyon"><img src="https://github-readme-stats.vercel.app/api?username=andreyyyon&hide_border=true&show_icons=true&theme=dark" alt="andreyyyon github status"></a>
