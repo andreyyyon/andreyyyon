@@ -1,4 +1,4 @@
-<h3 align="left">Tecnologias</h3>
+<h2 align="left">Tecnologias</h2>
 
 ###
 
