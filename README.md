@@ -1,9 +1,6 @@
-<h1 align="left">Olá devs!</h1>
+<a align="center" href="https://github.com/andreyyyon"><img src="https://github-readme-stats.vercel.app/api?username=andreyyyon&hide_border=true&show_icons=true&theme=dark" alt="andreyyyon github status"></a>
 
-###
-<a href="https://github.com/andreyyyon"><img src="https://github-readme-stats.vercel.app/api?username=andreyyyon&hide_border=true&show_icons=true&theme=dark" alt="andreyyyon github status"></a>
-
-<h2 align="left">Tecnologias</h2>
+<!-- <h2 align="left">Tecnologias</h2> -->
 
 ###
 
