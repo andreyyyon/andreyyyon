@@ -1,4 +1,4 @@
-<h2 align="left">Tecnologias</h2>
+<h2 align="left">Stack</h2>
 
 ###
 
