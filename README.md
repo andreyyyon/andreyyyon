@@ -6,9 +6,9 @@ Additionally, I develop on the Fluig platform using HTML, CSS, and JavaScript. A
 
 ### Skills
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,nodejs,express,firebase)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,nodejs,express,firebase&titles=true)
 <br>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlserver,mysql,mongo)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlserver,mysql,mongo&titles=true)
 
 ### Linkedin
 
