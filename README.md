@@ -6,7 +6,7 @@ Additionally, I develop on the Fluig platform using HTML, CSS, and JavaScript. A
 
 ### Skills
 
-![My Skills](https://skillicons.dev/icons?i=js,nodejs,firebase,mysql,mongo)
+![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,firebase,mysql,mongo)
 
 ### Linkedin
 
