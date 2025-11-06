@@ -1,12 +1,14 @@
 ### About me
 
-Hello! My name is Andrey, I’m 20 years old, and I’m a developer. I represent a TOTVS franchise, where I work with the company’s proprietary languages, ADVPL and TL++. 
+I am a Mid-Level Developer specializing in TOTVS technologies, working with the Protheus ERP (ADVPL language) and the Fluig Portal, which uses JavaScript and a hybrid Java backend.
 
-Additionally, I develop on the Fluig platform using HTML, CSS, and JavaScript. Aspiring to become a Full-Stack Developer.
+I have two years of experience in developing technological solutions, focusing on process improvement and system integrations. I am experienced with agile methodologies, technical documentation, and direct client interaction.
+
+I am passionate about technology and learning new ways to create innovative solutions, and I am currently a Software Engineering student.
 
 ### Skills
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,nodejs,express,firebase)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,nodejs,express,react,firebase)
 <br>
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sqlserver,mysql,mongo)
 
